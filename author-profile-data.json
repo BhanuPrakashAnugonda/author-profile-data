@@ -1,7 +1,7 @@
 {
   "name": "Bhanu Prakash",
   "username": "bhanuprakash",
-  "avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+  "avatar": "https://github.com/BhanuPrakashAnugonda/author-profile-data/blob/main/me.jpg",
   "role": "Full Stack Developer",
   "bio": "I'm a passionate full-stack developer with expertise in React, Next.js, Node.js, and modern web technologies.",
   "stats": {
@@ -24,5 +24,5 @@
     "AWS"
   ],
   "email": "bhanu@example.com",
-  "github": "https://github.com/BhanuPrakashAnugonda/author-profile-data/blob/main/me.jpg"
+  "github": "https://github.com/BhanuPrakashAnugonda"
 }
