@@ -1,0 +1,28 @@
+{
+  "name": "Bhanu Prakash",
+  "username": "bhanuprakash",
+  "avatar": "https://avatars.githubusercontent.com/u/1?v=4",
+  "role": "Full Stack Developer",
+  "bio": "I'm a passionate full-stack developer with expertise in React, Next.js, Node.js, and modern web technologies.",
+  "stats": {
+    "repositories": 42,
+    "followers": 1200,
+    "following": 89,
+    "contributions": 156
+  },
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Python",
+    "GraphQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Docker",
+    "AWS"
+  ],
+  "email": "bhanu@example.com",
+  "github": "https://github.com/bhanuprakash"
+}
